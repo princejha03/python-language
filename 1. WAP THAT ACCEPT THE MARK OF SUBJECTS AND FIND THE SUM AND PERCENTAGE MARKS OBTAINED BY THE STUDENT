@@ -1,4 +1,4 @@
-def calculate_marks():
+ def calculate_marks():
     sub_num = int(input("enter no of subject:"))
     
     total_marks= 0
